@@ -1,0 +1,25 @@
+# Build products
+obj/
+bin/
+TestResults/
+
+# Visual Studio
+.vs/
+*.user
+
+# Temporary files
+*.log
+*.old
+*.tmp
+
+# Git
+*.orig
+*.patch
+*.rej
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
